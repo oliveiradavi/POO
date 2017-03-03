@@ -2,8 +2,7 @@
  * Out of memory error
  */
 
-
-package aula2;
+package outOfMemory;
 
 public class Virus {
 
